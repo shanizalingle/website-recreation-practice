@@ -1,7 +1,7 @@
 # Website Reproduction Practice
 ### To practice adding and removing HTML elements using JS
 
-By: Skylan Lew, Shanzia Lingle, Kelly Bruce
+By: Skylan Lew, Shaniza Lingle, Kelly Bruce
 
 ## Technologies Used
 * HTML
